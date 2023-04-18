@@ -25,3 +25,9 @@ html, body {
 .fa-code, .fa-search {
   margin-right: 0.5vw;
 }
+
+.hero {
+  background-image: url('banner.jpg') !important;
+  background-size: cover;
+  background-position: center center;
+}
